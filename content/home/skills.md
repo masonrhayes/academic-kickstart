@@ -15,21 +15,20 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "windows"
   icon_pack = "fab"
-  name = "R"
-  description = "15%"
+  name = "Microsoft Office"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "70%"  
+  description = ""  
   
 [[feature]]
-  icon = "book"
+  icon = "language"
   icon_pack = "fas"
-  name = "Economic History"
-  description = "10%"
-
+  name = "Spanish"
+  description = ""
 +++

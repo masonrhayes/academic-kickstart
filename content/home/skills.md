@@ -31,4 +31,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Spanish"
   description = ""
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  description = ""  
 +++

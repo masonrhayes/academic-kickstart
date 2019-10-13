@@ -31,7 +31,7 @@ education:
   - course: B.A. in Economics & International Studies
     institution: University of Oklahoma
     year: 2016-2020
-  - course: B.A. in Economics & Internationanl Studies
+  - course: B.A. in Economics & International Studies
     institution: Masaryk University
     year: 2018-2019
 

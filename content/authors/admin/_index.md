@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: file
   icon_pack: fas
-  link: static/files/resume.pdf
+  link: "files/resume.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

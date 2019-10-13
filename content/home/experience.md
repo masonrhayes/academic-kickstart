@@ -41,4 +41,17 @@ date_format = "Jan 2006"
   date_end = "2019-10-11"
   description = """Learned the basics of R Programming."""
 
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "The Lab of Integrated Neuroimaging and Neuromodulation"
+  company_url = "https://yuanlab.ou.edu"
+  location = "Norman, OK"
+  date_start = "2017-01-01"
+  date_end = "2017-05-21"
+  description = """
+  
+  * Observed and participated in 3 experiments using electroencephalography (EEG)
+  * Developed a final presentation and literature review summarizing the applications of EEG in Alzheimer's research
+  """
+
 +++

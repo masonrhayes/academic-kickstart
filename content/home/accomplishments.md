@@ -48,4 +48,13 @@ date_format = "Jan 2006"
   date_end = "2020-05-21"
   description = "Awarded to only 15,000 out of 1.6 million American students who enter each year"
 
+[[item]]
+  organization = "Swirl Development Team"
+  organization_url = "https://github.com/swirldev"
+  title = "R Programming"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-08-01"
+  date_end = "2019-10-11"
+  description = "Learned the basics of R Programming."
 +++

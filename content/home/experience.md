@@ -33,15 +33,6 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "R Programming"
-  company = "Swirl Development Team"
-  company_url = "https://github.com/swirldev"
-  location = "Norman, OK"
-  date_start = "2019-08-01"
-  date_end = "2019-10-11"
-  description = """Learned the basics of R Programming."""
-
-[[experience]]
   title = "Undergraduate Research Assistant"
   company = "The Lab of Integrated Neuroimaging and Neuromodulation"
   company_url = "https://yuanlab.ou.edu"

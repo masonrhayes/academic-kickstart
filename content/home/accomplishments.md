@@ -57,4 +57,14 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = "2019-10-11"
   description = "Learned the basics of R Programming."
+
+[[item]]
+  organization = "College of International Studies"
+  organization_url = "https://ou.edu/cis"
+  title = "Paula Throckmorton Zakaria and Fareed Zakaria Scholarship"
+  url = "https://www.ou.edu/cis/scholarships/paula-throckmorton-zakaria-and-fareed-zakaria-scholarship"
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = "2018-12-01"
+  description = "Scholarship for University of Oklahoma students studying abroad through the College of International Studies"
 +++

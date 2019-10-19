@@ -55,9 +55,9 @@ social:
   link: https://github.com/masonrhayes
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: file
-  icon_pack: fas
-  link: "files/resume.pdf"
+- icon: cv
+  icon_pack: ai
+  link: "files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Mason Hayes is a fourth-year student at the University of Oklahoma studying Economics and International Studies. His research interests include economic inequality, game theory and behavior, and macroeconomic development. He is a [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424) and winner of the 2018 Holmes Scholarship and the [Robert Dean Bass Endowed Scholarship](https://www.ou.edu/cas/psc/undergraduate/scholarships).
+Mason Hayes is a fourth-year student at the University of Oklahoma studying Economics and International Studies. His primary research interests include economic inequality, game theory and behavior, and macroeconomic development. His current projects include capital concentration in Argentina at the beginning of the 20th century and optimization of pay-what-you-want pricing models. He is a [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424) and winner of the 2018 Holmes Scholarship and the [Robert Dean Bass Endowed Scholarship](https://www.ou.edu/cas/psc/undergraduate/scholarships).

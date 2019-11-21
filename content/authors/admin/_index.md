@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: B.A. in Economics & International Studies
+  - course: B.A., Economics & International Studies
     institution: University of Oklahoma
     year: 2016-2020
-  - course: B.A. in Economics & International Studies
+  - course: Exchange Program, Economics & International Studies
     institution: Masaryk University
     year: 2018-2019
 
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Mason Hayes is a fourth-year student at the University of Oklahoma studying Economics and International Studies. His primary research interests include economic inequality, game theory and behavior, and macroeconomic development. His current projects include capital concentration in Argentina at the beginning of the 20th century and optimization of pay-what-you-want pricing models. He is a [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424) and winner of the 2018 Holmes Scholarship and the [Robert Dean Bass Endowed Scholarship](https://www.ou.edu/cas/psc/undergraduate/scholarships).
+Mason Hayes is a fourth-year student at the University of Oklahoma studying Economics and International Studies. His primary research interests include economic inequality, game theory and behavior, and macroeconomic development. His current projects include capital concentration in Argentina at the beginning of the 20th century, the optimization of pay-what-you-want pricing models, and the effects of increasing industrial concentration on the innovation rates of minority groups in the United States. He is a [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424) and winner of the 2018 Holmes Scholarship and the [Robert Dean Bass Endowed Scholarship](https://www.ou.edu/cas/psc/undergraduate/scholarships).

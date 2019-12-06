@@ -1,31 +1,31 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Role of Economic Inequality and Capital Concentration in the Rise of the Radical Party in Argentina"
+title: "Populism and Inequality in Argentina: A Brief Introduction"
 authors: [Mason Hayes]
-date: 2019-10-14T23:18:25-05:00
+date: 2019-12-05T19:34:19-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-14T23:18:25-05:00
+publishDate: 2019-12-05T19:34:19-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: []
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "Capital concentration and foreign ownership of capital were essential factors in the successful formation of a class alliance between the middle class and the local capitalist class through their creation of a common enemy in Argentina – the oligarchy. The Radical Party could not have been successful, and indeed would probably never have been formed, if not for the growth in power of the ruling oligarch."
+abstract: "Argentina has experienced a more substantial increase in inequality than any other Latin American country (Acosta & Gasparini, 2007). The recent mass protests against economic and political inequality in Chile, a country that has lower levels of inequality than Argentina, further demonstrates the importance of this research and the political polarization caused by such high inequality. In this paper, I examine the relationship between economic inequality and populism in Argentina from the end of the 19th century through the latter part of the 20th century. Drawing on recent analysis by Alvaredo et al. (2018) and the Argentine Exceptionalism special collection, I  seek to showh the association between economic inequality and the rise of populist policy in Argentina throughout the 20th century."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
-categories: [Latin America, Argentina, Economic Inequality, History, Economics, Concentration]
+categories: [Economic Inequality, Populism, Latin America, Argentina, History]
 featured: false
 
 # Custom links (optional).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "/content/publication/radical-party.pdf"
+url_pdf: "content/publication/inequality-and-populism-in-argentina.pdf"
 url_code:
 url_dataset:
 url_poster:

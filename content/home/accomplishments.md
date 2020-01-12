@@ -67,13 +67,5 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2018-12-01"
   description = "Scholarship for University of Oklahoma students studying abroad through the College of International Studies"
-[[item]]
-  organization = "The Oklahoma Group"
-  organization_url = "http://theoklahomagroup.org/wp"
-  title = "Nonprofit Consultant"
-  url = "http://theoklahomagroup.org/wp/about"
-  certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = "2020-05-30"
-  description = "Pro bono consulting to help nonprofits maximize their impact in the community"
+
 +++

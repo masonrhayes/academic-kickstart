@@ -44,5 +44,15 @@ date_format = "Jan 2006"
   * Observed and participated in 3 experiments using electroencephalography (EEG)
   * Developed a final presentation and literature review summarizing the applications of EEG in Alzheimer's research
   """
+[[experience]]
+  title = "Nonprofit Consultant"
+  company = "The Oklahoma Group"
+  company_url = "http://theoklahomagroup.org/wp/about"
+  location = "Norman, OK"
+  date_start = "2019-01-10"
+  date_end = ""
+  description = """
+   The Oklahoma Group is a student-led organization that provides pro-bono consulting services to nonprofit organizations in the Oklahoma City area with the goal of helping them maximize their social impact, find and maintain diverse funding sources, and optimize their  operations.
 
+  """
 +++

@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: masonrhayes.com
+Token: 140d051e4394d6d83bd2f5608075b0755255707d3029d507194bdfbb5562aa2e

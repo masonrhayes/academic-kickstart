@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Hidden Wealth of Nations"
+title: "Something Deeply Hidden"
 summary: ""
-authors: []
+authors: [Sean Carroll]
 tags: []
 categories: []
-date: 2019-10-18T00:09:27-05:00
+date: 2020-03-11T21:44:38-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.goodreads.com/book/show/25245967-the-hidden-wealth-of-nations"
+external_link: "https://www.goodreads.com/book/show/44065062-something-deeply-hidden"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

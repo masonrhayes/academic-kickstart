@@ -14,16 +14,11 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "windows"
-  icon_pack = "fab"
-  name = "Microsoft Office"
-  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "R"
   description = ""  
   
 [[feature]]

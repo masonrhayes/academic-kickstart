@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Red Famine"
+title: "The Three-Body Problem"
 summary: ""
-authors: []
+authors: [Cixin Liu]
 tags: []
 categories: []
-date: 2019-10-18T00:15:23-05:00
+date: 2020-05-26T13:51:17-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.goodreads.com/book/show/33864676-red-famine?ac=1&from_search=true"
+external_link: "https://www.goodreads.com/book/show/20518872-the-three-body-problem"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

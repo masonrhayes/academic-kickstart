@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Capital in the Twenty-First Century"
+title: "The Alchemist"
 summary: ""
-authors: [Thomas Piketty]
+authors: [Paulo Coelho]
 tags: []
 categories: []
-date: 2019-10-18T00:16:23-05:00
+date: 2020-05-26T13:57:19-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century"
+external_link: "https://www.goodreads.com/book/show/18144590-the-alchemist"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

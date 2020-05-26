@@ -72,4 +72,14 @@ user_groups:
 - Visitors
 ---
 
-Mason Hayes is a fourth-year student at the University of Oklahoma studying Economics and International Studies, and an upcoming Master's student at Toulouse School of Economics. His primary research interests include economic inequality, game theory and behavior, and industrial organization. His recent projects include capital concentration in Argentina at the beginning of the 20th century, the optimization of pay-what-you-want pricing models, and the effects of increasing industrial concentration on the innovation rates of minority groups in the United States. He is a [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424) and winner of the 2018 Holmes Scholarship and the [Robert Dean Bass Endowed Scholarship](https://www.ou.edu/cas/psc/undergraduate/scholarships).
+## Hey, I'm Mason!
+
+I recently graduated from the University of Oklahoma with a Bachelor's degree in Economics and International Studies, and I will start my Master's degree in Economics this fall at the [Toulouse School of Economics](https://tse-fr.eu/). My primary research interests include economic inequality, game theory and behavior, and industrial organization. My recent projects include capital concentration in Argentina at the beginning of the 20th century, the optimization of pay-what-you-want pricing models, and the effects of increasing industrial concentration on the innovation rates of minority groups in the United States.
+
+## I enjoy:
+
+Reading books, playing tennis, drinking coffee, and learning languages!
+
+## I support:
+
+Open science, internet privacy, and open source software.

@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+[[item]]
+  organization = "The American Friends of TSE"
+  organization_url = "https://www.tse-fr.eu/aftse"
+  title = "The American Friends of TSE Excellence Scholarship Grant"
+  url = "https://www.tse-fr.eu/american-friends-tse-excellence-scholarship-grant-masters-studies-open-us-residents"
+  certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = "2022-05-30"
+  description = "Part of the International Attractiveness School Program, this scholarship will allow a student to be financially supported in his/her training at one of the leading schools of economics in continental Europe. The objective of this scholarship is also to continue to strengthen and establish new links between TSE and the United States."
+
 [[item]]
   organization = "The Robert Dean Bass Memorial Scholarship Committee"
   organization_url = "https://ou.edu/cas/economics"

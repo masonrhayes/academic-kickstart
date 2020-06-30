@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/masonrhayes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://masonrhayes.com
+  * I am masonrhayes (https://keybase.io/masonrhayes) on keybase.
+  * I have a public key ASCPnpSF4pkwVNXqqsd7wdDa5fslN4qN6KxGwgYggSA6Nwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208f9e9485e2993054d5eaaac77bc1d0dae5fb25378a8de8ac46c2062081203a370a",
+      "host": "keybase.io",
+      "kid": "01208f9e9485e2993054d5eaaac77bc1d0dae5fb25378a8de8ac46c2062081203a370a",
+      "uid": "ccfe4758bf2f4f392661510d9cda0019",
+      "username": "masonrhayes"
+    },
+    "merkle_root": {
+      "ctime": 1593494936,
+      "hash": "8575ae9b33b573940bea8af0c236a84b9df3eaafa2eeda2b96099043975582445d992e5e8e70718dd80c0bc049126148a7447ac4b67a3eddcdcf862273100dd4",
+      "hash_meta": "f280ea8af87632d2f0bc483706e0926a32f52f4b796ca1d26e17bc24d1deacff",
+      "seqno": 16817051
+    },
+    "service": {
+      "entropy": "haHwjEpJME50A9mAcRisr0FT",
+      "hostname": "masonrhayes.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1593495003,
+  "expire_in": 504576000,
+  "prev": "8672dfd8e7a76b8571ce3fb840c766da2b2ff88976904a9a47682df22dbdc2a9",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgj56UheKZMFTV6qrHe8HQ2uX7JTeKjeisRsIGIIEgOjcKp3BheWxvYWTESpcCCcQghnLf2Oena4Vxzj+4QMdm2isv+Il2kEqaR2gt8i29wqnEILZEq3+quuvaeCPUR4ky++BEFkh73jAKnezFkR8PoazWAgHCo3NpZ8RAPt7terMkhm7cUN22V6c5lEuEFAoY3UzQpPPek5EjzZMNbTBksRDYmV2yciKIQwUsqDhAGAymVAnmMZet7eCmD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKHL7dGpR7f451xkxxPOFQj+0rXKbmUuxddXgvhwGohlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/masonrhayes
+
+==================================================================

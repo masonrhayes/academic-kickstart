@@ -28,7 +28,10 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-09-01"
   date_end = "2022-05-30"
-  description = "Part of the International Attractiveness School Program, this scholarship will allow a student to be financially supported in his/her training at one of the leading schools of economics in continental Europe. The objective of this scholarship is also to continue to strengthen and establish new links between TSE and the United States."
+  description = """
+  * Awarded to 1 US resident for academic and professional projects in line with the Toulouse School of Economics' training objectives. 
+  * Part of the International Attractiveness School Program, this scholarship will allow a student to be financially supported in his/her training at one of the leading schools of economics in continental Europe. The objective of this scholarship is also to continue to strengthen and establish new links between TSE and the United States.
+  """
 
 [[item]]
   organization = "The Robert Dean Bass Memorial Scholarship Committee"

@@ -25,11 +25,9 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-08-01"
   description = """
-  Responsibilities included:
-  
-  * Editing 18+ exams and their respective answer keys
-  * Finding and correcting 50+ mistakes in the exam answer keys
-  * Giving feedback to the course professor on the exam questions
+  * Created and edited questions and answers for exams for the Honors Elements of Statistics course at the University of Oklahoma
+  * Fixed mathematical and statistical mistakes on the exam answer keys
+  * Provided new, concise answer key explanations to serve as a resource to future students
   """
 
 [[experience]]
@@ -52,7 +50,10 @@ date_format = "Jan 2006"
   date_start = "2019-01-10"
   date_end = ""
   description = """
-   The Oklahoma Group is a student-led organization that provides pro-bono consulting services to nonprofit organizations in the Oklahoma City area with the goal of helping them maximize their social impact, find and maintain diverse funding sources, and optimize their  operations.
+  * Provided *pro bono* consulting services to a nonprofit literacy center in the Oklahoma City area to help maximize its social impact and expand its mission
+  * Created new marketing ideas and outreach techniques to increase the potential client base
+  * Cleaned, analyzed, and visualized marketing and financial data in R to help the nonprofit learn how to better engage its clients
+  * Publicly presented and explained research findings
 
   """
 +++
